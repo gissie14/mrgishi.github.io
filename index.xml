@@ -6,18 +6,19 @@
     <description>Recent content on Blog 17A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 23 Apr 2020 22:34:49 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 15:05:56 +0530</lastBuildDate>
     
 	<atom:link href="https://mrgishi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Air Nation List Style</title>
-      <link>https://mrgishi.github.io/post/air-nation-list-style/</link>
-      <pubDate>Thu, 23 Apr 2020 22:34:49 +0530</pubDate>
+      <title>Hugo × GitHub PagesでBlogを作成してみた</title>
+      <link>https://mrgishi.github.io/post/sample-post/</link>
+      <pubDate>Sun, 26 Jul 2020 15:05:56 +0530</pubDate>
       
-      <guid>https://mrgishi.github.io/post/air-nation-list-style/</guid>
-      <description>Ignes poposcit feremur pone Lorem markdownum omnibus dominis quis, nymphae dixit ira operisque; in forti pollice Achille. Cursu oculorum sepulcri et malis, calescit repperit sonum: tardis iam.</description>
+      <guid>https://mrgishi.github.io/post/sample-post/</guid>
+      <description>実現したいこと  GitHub で管理するブログ構築  導入理由 現在、WordPress ではない、手軽なブログ管理システム、運用方法を模索しています。 そんな中、GitHub のレポジトリで管理できる方法を発見したので、試しに使ってみようと考えました。
+利点    補足 Hugo の Sugoi テーマを利用 cf. Sugoi ｜ Hugo Themes： https://themes.</description>
     </item>
     
     <item>
@@ -36,24 +37,6 @@
       
       <guid>https://mrgishi.github.io/about/</guid>
       <description>Quidque corpore Lorem markdownum verbis. Ipso et felices curvos, interit fulmina avellere sed utendum alte, illas; sumusve huc corpora. Formam cupit, imagine cur tulerunt Ligdo laborum, elige natae, serpens distent quietis sagittas; tuo.</description>
-    </item>
-    
-    <item>
-      <title>Fire Nation - Code Blocks?</title>
-      <link>https://mrgishi.github.io/post/code-blocks/</link>
-      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
-      
-      <guid>https://mrgishi.github.io/post/code-blocks/</guid>
-      <description>Tuta et oras femina unda pennisque vicina Lorem markdownum tollere distincta figitur utere rarus infans mille; prima sitim mea conveniunt cessit; mihi.</description>
-    </item>
-    
-    <item>
-      <title>Fire Nation - Price Zuko</title>
-      <link>https://mrgishi.github.io/post/prince-zuko/</link>
-      <pubDate>Sun, 22 Mar 2020 15:05:56 +0530</pubDate>
-      
-      <guid>https://mrgishi.github.io/post/prince-zuko/</guid>
-      <description>Cepit pete stipe Lorem markdownum viso. Vitam et suam Minyis, haec scire plenaque volenti futuri quam inpulsu victore vidisset et. Hastam perdidit bracchia, nec mora superare placuit scelus celanda posset, et axem illuc.</description>
     </item>
     
     <item>
